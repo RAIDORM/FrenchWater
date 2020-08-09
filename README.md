@@ -10,6 +10,11 @@ With pip
 pip install frenchwater
 ```
 
+## Get your informations
+
+![Test](test.gif)
+
+
 ## Usage
 
 ```python
