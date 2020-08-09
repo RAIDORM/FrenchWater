@@ -7,7 +7,7 @@ FrenchWater is an api written in python which helps you getting informations abo
 With pip
 
 ```bash
-pip install foobar
+pip install frenchwater
 ```
 
 ## Usage
