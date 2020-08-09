@@ -13,9 +13,9 @@ pip install frenchwater
 ## Usage
 
 ```python
-import frenchwater
+from FrenchWater import FrenchWater
 
-water = frenchwater(region='93',departement='004',commune='04001',reseau='004001156_004')
+water = FrenchWater(region='93',departement='004',commune='04001',reseau='004001156_004')
 water.get_last_results()
 water.get_last_x_results(result_size=20)
 ```
